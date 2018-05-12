@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39715
     wikipedia: http://en.wikipedia.org/wiki/Edward_Hungerford_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40087#With-the-Doughboy-in-France--A-Few-Chapters-of-an-American-Effort
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2012-06-26'
 gutenberg_type: Text
